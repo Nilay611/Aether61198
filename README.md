@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aether61198
+- 👋 Hi, I’m Nilay Saxena
 - 👀 I’m interested in Front-End Design and Graphics Design.
-- 🌱 I’m currently learning ReactJS and PHP.
+- 🌱 I’m currently learning ReactJS and Django.
 - 💞️ I’m looking to collaborate on any web development project.
 - 📫 How to reach me - Whatsapp: +918737911663
 
